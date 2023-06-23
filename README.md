@@ -8,7 +8,9 @@ MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk
 
 A FREE TELEGRAM SCRAPER TOOL
 
-FOR PRIVATE DEALS > https://t.me/+r4q42DHGePA5ZTJk
+FOR CHANNEL SCRAPER OR OTHER DEALS
+
+MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
 
 # FEATURES
 > you can add multiple accounts
