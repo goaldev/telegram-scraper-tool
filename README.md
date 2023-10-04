@@ -10,7 +10,7 @@ A FREE TELEGRAM SCRAPER TOOL
 
 FOR CHANNEL SCRAPER OR OTHER DEALS
 
-MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
+MESSAGE > https://t.me/nicedeve
 
 # FEATURES
 > you can add multiple accounts
@@ -24,7 +24,7 @@ DO YOU NEED THE BEST VERSION ?
 
 BEST VERSION SCRAPES UNLIMITED MEMBERS
 
-MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk
+MESSAGE ME > https://t.me/nicedeve
 
 
 # REQUIREMENTS
@@ -39,7 +39,7 @@ MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk
 > pip install requests
 
 
-FREE GUIDE > https://t.me/+r4q42DHGePA5ZTJk
+FREE GUIDE > https://t.me/nicedeve
 
 # USAGE 
 > manager.py to add accounts
